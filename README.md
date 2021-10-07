@@ -12,7 +12,7 @@ And best best thing about, it's **FREE**
 
 Constant updates that can be downloaded for free right **here**
 
-# <a href="releases/">Releases</a>
+# Releases
 
 <h3><a href="releases/1.0.0.md">Lastest Version</h3>
 <h3><a href="releases/1.0.0.md">1.0.0</h3>  
