@@ -2,11 +2,11 @@
 
 **CryptoJax** is a simple but powerful UI for **Phoenix Miner**
 
-It covers loads of useful settings that can be added to configurations for miner in a simple *click!*
+It covers loads of useful settings that can be added to configurations for the miner in a simple *click!*
 
 It also offers a system where you add your own configurations. 
 
-A simple but useful tool that's handy is the config formatting tool. You can easily format your config.txt to look amazing. 
+A simple but useful tool in Phoenix Miner is the config formatting tool. You can easily format your config.txt to look amazing. 
 
 And best best thing about, it's **FREE**
 
